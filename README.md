@@ -12,3 +12,5 @@ Tkinter UI got from this thread: https://v3rmillion.net/showthread.php?tid=10689
 
 UI: <br /> 
 ![Image of Yaktocat](https://i.imgur.com/t2tk3Ub.png)
+
+(original by GameOverAgain, modified by gdsonicpython)
